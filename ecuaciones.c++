@@ -21,7 +21,7 @@ int main (){
     system ("pause");
     system ("cls");
 
-    cout <<"Ya tenemos los resultados: "<< endl;
+    cout <<"Ya tenemos los resultados: "<< endl; 
     cout << "El valor de x1 = "<<x1<< endl;
     cout << "El valor de x2 = "<<x2<< endl;
 
